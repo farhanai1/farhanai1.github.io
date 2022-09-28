@@ -1,0 +1,14 @@
+# Belongs at: /_data/navigation.yml
+
+- title: Farhana Islam
+  url: /
+
+- title: Menu
+  url: /group/
+  sublinks:
+    - title: CV
+      url: another-page.md
+    - title: Science Outreach
+      url: another-page2.md
+    - title: Contact
+      url: another-page3.md
