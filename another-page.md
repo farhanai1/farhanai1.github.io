@@ -10,6 +10,12 @@ description:
 | Master of Science (M.Sc.), Neuroscience      | Centre for Neuroscience Studies, Queen’s University, Kingston, ON.           |
 | Bachelor of Science (Honours) (H.B.Sc.) Neuroscience and Biochemistry majors, Psychology minor | University of Toronto - St. George Campus, Toronto, ON
 
+
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
 * * *
 
 ## Publications
