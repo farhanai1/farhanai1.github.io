@@ -6,15 +6,10 @@ description:
 
 ## Education
 
-| Doctor of Philosophy (Ph.D.), Pharmacology   | Department of Pharmacology & Toxicology, University of Toronto, Toronto, ON. |
-| Master of Science (M.Sc.), Neuroscience      | Centre for Neuroscience Studies, Queen’s University, Kingston, ON.           |
-| Bachelor of Science (Honours) (H.B.Sc.) Neuroscience and Biochemistry majors, Psychology minor | University of Toronto - St. George Campus, Toronto, ON
+| **Doctor of Philosophy (Ph.D.)**, Pharmacology   | Department of Pharmacology & Toxicology,(<br />)_University of Toronto, Toronto, ON._ |
+| **Master of Science (M.Sc.)**, Neuroscience      | Centre for Neuroscience Studies, (<br />)_Queen’s University, Kingston, ON._           |
+| **Bachelor of Science (Honours) (H.B.Sc.)**, (<br />)Neuroscience and Biochemistry majors, Psychology minor | University of Toronto - St. George Campus, Toronto, ON
 
-
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 * * *
 
@@ -45,15 +40,20 @@ Marshe, V.S., **Islam, F.**, Maciukiewicz, M., Bousman, C., Eyre, H.A., Lavretsk
 ## Honours and Awards
 
 
-2021	            | Early Career Investigator Award for the 2021 World Congress of Psychiatric Genetics (WCPG) - International Society of Psychiatric Genetics (ISPG)
-2021, 2020, 2018	| Ontario Graduate Scholarship (3x)
-2019, 2017, 2016	| University of Toronto Fellowship (3x)
-2019	            | Department of Pharmacology & Toxicology Book Fund Travel Award
-2017, 2018	      | Massey College Junior Fellowship (2x)
-2017	            | Pharmacology Graduate Student Award
-2017	            | Frist-Jus Annual Memorial Award in Neuropsychopharmacology
-2014, 2015	      | Clifton Foundation Scholarship (2x)
-2014, 2015	      | Queen’s Graduate Award (2x)
+2017, 2022.       | Department of Pharmacology & Toxicology Book Fund Travel Award, _University of Toronto_
+2021	            | Early Career Investigator Award for the 2021 World Congress of Psychiatric Genetics (WCPG), _International Society of Psychiatric Genetics (ISPG)_
+2021, 2020, 2018	| Ontario Graduate Scholarship (3x), _Ministry of Colleges and Universities_
+2019, 2017, 2016	| University of Toronto Fellowship (3x), _University of Toronto_
+2019	            | Catherall Travel Bursary, _Massey College, University of Toronto_
+2017, 2018	      | Massey College Junior Fellowship (2x), _Massey College, University of Toronto_
+2017	            | Pharmacology Graduate Student Award, _University of Toronto_
+2017	            | Frist-Jus Annual Memorial Award in Neuropsychopharmacology, _University of Toronto_
+2014, 2015	      | Clifton Foundation Scholarship (2x), _Pathways to Education_
+2014, 2015	      | Queen’s Graduate Award (2x), _School of Graduate Studies, Queen’s University_
+2009-2013         | Yonge Street Mission Scholarship (x4), _Yonge Street Mission_
+2009-2013         | Pathways to Education Bursary, _Pathways to Education_
+2011              | Human Concern International Scholarship, _Human Concern International_
+2009              | Queen Elizabeth II Aiming for the Top Scholarship, _Government of Ontario_
 
 
 [back](./)
