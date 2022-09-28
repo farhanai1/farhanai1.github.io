@@ -4,6 +4,14 @@ title: Curriculum Vitae
 description: 
 ---
 
+## Education
+
+|:---------------------------------------------|:-----------------------------------------------------------------------------|
+| Doctor of Philosophy (Ph.D.), Pharmacology   | Department of Pharmacology & Toxicology, University of Toronto, Toronto, ON. |
+| Master of Science (M.Sc.), Neuroscience      | Centre for Neuroscience Studies, Queen’s University, Kingston, ON.           |
+| Bachelor of Science (Honours) (H.B.Sc.) Neuroscience and Biochemistry majors, Psychology minor | University of Toronto - St. George Campus, Toronto, ON
+
+
 ## Publications
 
 **Islam, F.**, Marshe, V.S., Magarbeh, L., Frey, B.N., Milev, R.V., Soares, C., Parikh, S., Placenza, F., Strother, S.C., Hassel, S., Taylor, V.H., Leri, F., Blier, P., Uher, R., Farzan, F., Lam, R.W., Turecki, G., Foster, J.A., Rotzinger, S., Kennedy, S.H., Müller, D.J. (2022) [Effects of CYP2C19 and CYP2D6 Gene Variants on Escitalopram and Aripiprazole Treatment Outcome and Serum Levels: Results from the CAN-BIND 1 Study](https://www.nature.com/articles/s41398-022-02124-4). Translational Psychiatry. 12, 366.
