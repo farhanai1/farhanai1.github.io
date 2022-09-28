@@ -10,11 +10,11 @@ description:
 
 **Islam, F.**, Hain, D., Lewis, D., Law, R., Brown, L., Tanner, J-A., & Müller, D.J. (2022) [Pharmacogenetics of Clozapine-induced Agranulocytosis: A Systematic Review and Meta-Analysis](https://www.nature.com/articles/s41397-022-00281-9). The Pharmacogenomics Journal. DOI: 10.1038/s41397-022-00281-9
 
-**Islam, F.**, Men, X., Yoshida, K., Zai, C.C., & Müller, D.J. (2021) [Pharmacogenetics-guided advances in antipsychotic treatment].(https://pubmed.ncbi.nlm.nih.gov/34129738/) Clinical Pharmacology and Therapeutics. 110(3), 582-588.
+**Islam, F.**, Men, X., Yoshida, K., Zai, C.C., & Müller, D.J. (2021) [Pharmacogenetics-guided advances in antipsychotic treatment](https://pubmed.ncbi.nlm.nih.gov/34129738/). Clinical Pharmacology and Therapeutics. 110(3), 582-588.
 
-**Islam, F.**, Gorbovskaya, I., & Müller, D.J. (2021) [Pharmacogenetic/Pharmacogenomic Tests for Treatment Prediction in Depression. In: Kim YK. (eds) Major Depressive Disorder].(https://pubmed.ncbi.nlm.nih.gov/33834403/) Advances in Experimental Medicine and Biology, vol 1305. Springer, Singapore. 
+**Islam, F.**, Gorbovskaya, I., & Müller, D.J. (2021) [Pharmacogenetic/Pharmacogenomic Tests for Treatment Prediction in Depression. In: Kim YK. (eds) Major Depressive Disorder](https://pubmed.ncbi.nlm.nih.gov/33834403/). Advances in Experimental Medicine and Biology, vol 1305. Springer, Singapore. 
 
-**Islam, F.**, Maciukiewicz, M., Freeman, N., Eric, H., Tiwari, A., Mulsant, B.H., Pollock, B.G., Remington, G., Kennedy, J.L, Müller, D.J., & Rajji, TK. (2021) [Contributions of Cholinergic Receptor Muscarinic 1 (CHRM1) and CYP1A2 Gene Variants on the Effects of Plasma Ratio of Clozapine/N-Desmethylclozapine on Working Memory in Schizophrenia].(https://pubmed.ncbi.nlm.nih.gov/33143542/) Journal of Psychopharmacology. 35(1), 31-39.
+**Islam, F.**, Maciukiewicz, M., Freeman, N., Eric, H., Tiwari, A., Mulsant, B.H., Pollock, B.G., Remington, G., Kennedy, J.L, Müller, D.J., & Rajji, TK. (2021) [Contributions of Cholinergic Receptor Muscarinic 1 (CHRM1) and CYP1A2 Gene Variants on the Effects of Plasma Ratio of Clozapine/N-Desmethylclozapine on Working Memory in Schizophrenia](https://pubmed.ncbi.nlm.nih.gov/33143542/). Journal of Psychopharmacology. 35(1), 31-39.
 
 Marshe, V.S., Maciukiewicz, M., Hauschild, A-C., **Islam, F.**, Qin, L., Tiwari, A.K., Sibille, E., Blumberger, D.M., Karp, J.F., Flint, A.J., Kennedy, S.H., Lam, R.W., Frey, B., CAN-BIND Investigator Team, Kennedy, J.L., Mulsant, B.H., Reynolds III, C.F., Lenze, E.J., & Müller, D.J. (2021) [Genome-wide analysis suggests the importance of vascular processes and neuroinflammation in late-life antidepressant response](https://www.nature.com/articles/s41398-021-01248-3). Translational Psychiatry. 11(1), 1-12. 
 
