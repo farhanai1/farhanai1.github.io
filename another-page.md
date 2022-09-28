@@ -36,7 +36,7 @@ Marshe, V.S., **Islam, F.**, Maciukiewicz, M., Bousman, C., Eyre, H.A., Lavretsk
 
 * * *
 
-** Honours and Awards
+## Honours and Awards
 
 
 2021	            | Early Career Investigator Award for the 2021 World Congress of Psychiatric Genetics (WCPG) - International Society of Psychiatric Genetics (ISPG)
