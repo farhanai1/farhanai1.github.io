@@ -25,7 +25,6 @@ Marshe, V.S., Islam, F., Maciukiewicz, M., Bousman, C., Eyre, H.A., Lavretsky, H
 Islam, F., Voineskos, A., Mulsant, B.H., & Rajji, TK. Expression of brain derived neurotrophic factor in individuals with schizophrenia and healthy aging: testing the accelerated aging hypothesis in schizophrenia. (2017) Current Psychiatry Reports. 19 (7), 36.
 
 Islam, F., Xu, K., & Beninger, R.J. Inhibition of Wnt signalling dose-dependently impairs the acquisition and expression of amphetamine-induced conditioned place preference. (2017) Behavioural Brain Research. 326, 217-225.
-![image](https://user-images.githubusercontent.com/44449940/192682814-4ca23dd8-1a94-4923-8fe3-85114b709c7e.png)
 
 
 [back](./)
