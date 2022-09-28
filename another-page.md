@@ -6,11 +6,11 @@ description:
 
 ## Education
 
-|:---------------------------------------------|:-----------------------------------------------------------------------------|
 | Doctor of Philosophy (Ph.D.), Pharmacology   | Department of Pharmacology & Toxicology, University of Toronto, Toronto, ON. |
 | Master of Science (M.Sc.), Neuroscience      | Centre for Neuroscience Studies, Queen’s University, Kingston, ON.           |
 | Bachelor of Science (Honours) (H.B.Sc.) Neuroscience and Biochemistry majors, Psychology minor | University of Toronto - St. George Campus, Toronto, ON
 
+* * *
 
 ## Publications
 
@@ -33,6 +33,21 @@ Marshe, V.S., **Islam, F.**, Maciukiewicz, M., Bousman, C., Eyre, H.A., Lavretsk
 **Islam, F.**, Voineskos, A., Mulsant, B.H., & Rajji, TK. [Expression of brain derived neurotrophic factor in individuals with schizophrenia and healthy aging: testing the accelerated aging hypothesis in schizophrenia](https://pubmed.ncbi.nlm.nih.gov/28534294/). (2017) Current Psychiatry Reports. 19 (7), 36.
 
 **Islam, F.**, Xu, K., & Beninger, R.J. [Inhibition of Wnt signalling dose-dependently impairs the acquisition and expression of amphetamine-induced conditioned place preference](https://pubmed.ncbi.nlm.nih.gov/28284949/). (2017) Behavioural Brain Research. 326, 217-225.
+
+* * *
+
+** Honours and Awards
+
+
+2021	            | Early Career Investigator Award for the 2021 World Congress of Psychiatric Genetics (WCPG) - International Society of Psychiatric Genetics (ISPG)
+2021, 2020, 2018	| Ontario Graduate Scholarship (3x)
+2019, 2017, 2016	| University of Toronto Fellowship (3x)
+2019	            | Department of Pharmacology & Toxicology Book Fund Travel Award
+2017, 2018	      | Massey College Junior Fellowship (2x)
+2017	            | Pharmacology Graduate Student Award
+2017	            | Frist-Jus Annual Memorial Award in Neuropsychopharmacology
+2014, 2015	      | Clifton Foundation Scholarship (2x)
+2014, 2015	      | Queen’s Graduate Award (2x)
 
 
 [back](./)
