@@ -58,14 +58,18 @@ Marshe, V.S., **Islam, F.**, Maciukiewicz, M., Bousman, C., Eyre, H.A., Lavretsk
 
 |2017-Present         | Teaching Assistant    | _University of Toronto_ |
 
-|* **Biostatistics I** (CHL5201Y), _Dalla Lana School of Public Health_ 
+|
+
+* **Biostatistics I** (CHL5201Y), _Dalla Lana School of Public Health_ 
 * **Biometrics** (BIO360H), _Department of Biology at the Mississauga Campus_ 
 * **Pharmacology and Toxicology in Society** (PCL389H), _Department of Pharmacology and Toxicology_ 
 * **Personalized Medicine** (PHM360H), _Department of Pharmacy_|
 
 |2014-2017            | Teaching Assistant   | _Queen's University_|
 
-|* **Abnormal Psychology** (PSYC 235), _Department of Psychology_ 
+|
+
+* **Abnormal Psychology** (PSYC 235), _Department of Psychology_ 
 * **Social Psychology** (PSYC 241), _Department of Psychology_|
 
 
@@ -143,11 +147,11 @@ August 2018   | Towards Pharmacogenomics in Clinic, _U-PGx Summer School, Bonn, 
 
 ## Conference Presentations
 
-# Symposium
+### Symposium
 
 **Islam, F.**, Marshe, V.S., .., S., Kennedy, S.H., Müller, D.J. Association of CYP2C19 and CYP2D6 genotypes and plasma levels of escitalopram and aripiprazole with treatment outcome in the CAN-BIND-1 sample. Talk presented at symposium: Moving Depression Pharmacogenetics Forward-Using Scientific Discoveries to Inform Clinical Decisions at the _World Congress of Psychiatry Genetics (WCPG)_, 12 October 2021; Virtual.
 
-# Posters
+### Posters
 
 **Islam, F.**, Magarbeh, L, .., S., Kennedy, S.H., Müller, D.J. . [Effects of CYP2C19, CYP2D6, and ABCB1 gene variants on escitalopram and aripiprazole treatment-related sexual side effects: results from the CAN-BIND-1 study](https://www.researchgate.net/publication/363833088_EFFECTS_OF_CYP2C19_CYP2D6_AND_ABCB1_GENE_VARIANTS_ON_ESCITALOPRAM_AND_ARIPIPRAZOLE_TREATMENT-RELATED_SEXUAL_SIDE_EFFECTS_RESULTS_FROM_THE_CAN-BIND-1_STUDY). _World Congress of Psychiatry Genetics (WCPG)_, 15 September 2022; Florence, Italy.
 
