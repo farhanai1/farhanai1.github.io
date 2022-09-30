@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Curriculum Vitae
-description: 
+title: Farhana Islam
+description: Curriculum Vitae
 ---
 
 ## Education
@@ -101,34 +101,34 @@ August 2018   | Towards Pharmacogenomics in Clinic, _U-PGx Summer School, Bonn, 
 
 2021 - Present                  | President (previously Vice President - elected)       | Tenants’ Association, _University Family Housing, University of Toronto_ | 
 
-* Advocate on behalf of residents living at UFH directly to building management to resolve collective issues and improve living conditions for students and their families.
+|* Advocate on behalf of residents living at UFH directly to building management to resolve collective issues and improve living conditions for students and their families.|
 
 
 2020 - Present                  | Committee Member                                        | Equity, Diversity and Inclusion (EDI) Committee, _Canadian College of Neuropsychopharmacology (CCNP)_ | 
 
-* Serve as a Member of the EDI committee for the CCNP actively working to create a more inclusive College where there is equal opportunity for and treatment of all meeting participants and staff.
+|* Serve as a Member of the EDI committee for the CCNP actively working to create a more inclusive College where there is equal opportunity for and treatment of all meeting participants and staff.|
 
 
 2020 - 2021                  | Student Advisor                                             | Housing Services Student Advisory Committee, _Student Life, University of Toronto_ | 
 
-* Provide input and feedback on matters pertaining to housing services, programming for students, resources and departmental budget priorities.
-* Advocate for affordable housing options for students and their families on campus.
+|* Provide input and feedback on matters pertaining to housing services, programming for students, resources and departmental budget priorities.
+* Advocate for affordable housing options for students and their families on campus.|
 
 2019 - 2020                  | Internal Liason Officer (elected)                            | Executive Committee, _CUPE 3902_ | 
 
-* Served as the Local’s representative in collaborations with student and labour unions and equity-seeking groups within the University community.
+|* Served as the Local’s representative in collaborations with student and labour unions and equity-seeking groups within the University community.
 * Developed allyship with members and non-members in preparation for bargaining as part of the Political Action Committee.
 * Managed the Local’s representatives on Joint Health and Safety Committees.
-* Advocated for marginalised voices and ensured the Local prioritises the needs of members for inclusive and accessible workplaces.
+* Advocated for marginalised voices and ensured the Local prioritises the needs of members for inclusive and accessible workplaces.|
 
 2016 - 2020                  | President (2018-2020) and Vice President (2017-2018) (Elected) | Race and Ethnicity Caucus, _University of Toronto Graduate Students’ Union (UTGSU)_ | 
 
-* Committed to social justice, community building, and healing for self-identified racialized graduate students at the university.
-* Organized events, campaigns and initiatives, and collaborated with various on-campus groups to bring awareness to issues that affect BIPOC communities.
+|* Committed to social justice, community building, and healing for self-identified racialized graduate students at the university.
+* Organized events, campaigns and initiatives, and collaborated with various on-campus groups to bring awareness to issues that affect BIPOC communities.|
 
 2018 - 2020                  | Board Member                                                   | Student Initiative Fund (SIF), _Student Life, University of Toronto_ | 
 
-* Involved in the selection of student-led projects and initiatives that enhance the student experience and foster a sense of community at the university.
+|* Involved in the selection of student-led projects and initiatives that enhance the student experience and foster a sense of community at the university.|
 
 
 * * *
@@ -138,6 +138,42 @@ August 2018   | Towards Pharmacogenomics in Clinic, _U-PGx Summer School, Bonn, 
 2021 - Present                  | Member            | American Society for Clinical Pharmacology and Therapeutics (ASCPT)
 2019 - Present                  | Junior Member     |  Canadian College of Neuropsychopharmacology (CCNP)
 2019 - Present                  | Member            |  Pharmacogenomics Research Network (PGRN)
+
+* * *
+
+## Conference Presentations
+
+# Symposium
+
+**Islam, F.**, Marshe, V.S., .., S., Kennedy, S.H., Müller, D.J. Association of CYP2C19 and CYP2D6 genotypes and plasma levels of escitalopram and aripiprazole with treatment outcome in the CAN-BIND-1 sample. Talk presented at symposium: Moving Depression Pharmacogenetics Forward-Using Scientific Discoveries to Inform Clinical Decisions at the _World Congress of Psychiatry Genetics (WCPG)_, 12 October 2021; Virtual.
+
+# Posters
+
+**Islam, F.**, Magarbeh, L, .., S., Kennedy, S.H., Müller, D.J. . [Effects of CYP2C19, CYP2D6, and ABCB1 gene variants on escitalopram and aripiprazole treatment-related sexual side effects: results from the CAN-BIND-1 study](https://www.researchgate.net/publication/363833088_EFFECTS_OF_CYP2C19_CYP2D6_AND_ABCB1_GENE_VARIANTS_ON_ESCITALOPRAM_AND_ARIPIPRAZOLE_TREATMENT-RELATED_SEXUAL_SIDE_EFFECTS_RESULTS_FROM_THE_CAN-BIND-1_STUDY). _World Congress of Psychiatry Genetics (WCPG)_, 15 September 2022; Florence, Italy.
+
+**Islam, F.**, Hain, D., Lewis, D., Law, R., Brown, L., Tanner, J-A., & Müller, D.J. [Genetic Determinants of Clozapine-Induced Agranulocytosis: A Systematic Review and Meta-Analysis](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(21)00955-0/fulltext). Poster at the 76th Annual Meeting of the _Society of Biological Psychiatry_, 30 April 2021; Virtual.
+
+**Islam, F.**, Maciukiewicz, M., Freeman, N., Eric, H., Tiwari, A., Mulsant, B.H., Pollock, B.G., Remington, G., Kennedy, J.L, Müller, D.J., & Rajji, TK. [Contributions of Cholinergic Receptor Muscarinic 1 (CHRM1) and CYP1A2 Gene Variants on the Effects of Plasma Ratio of Clozapine/N-Desmethylclozapine on Working Memory in Schizophrenia](https://pubmed.ncbi.nlm.nih.gov/33143542/). Poster at the _World Congress of Psychiatry Genetics (WCPG)_, 20 October 2020; Virtual.
+
+**Islam, F.**, Maciukiewicz, M., Freeman, N., Eric, H., Tiwari, A., Mulsant, B.H., Pollock, B.G., Remington, G., Kennedy, J.L, Müller, D.J., & Rajji, TK. [Contributions of Cholinergic Receptor Muscarinic 1 (CHRM1) and CYP1A2 Gene Variants on the Effects of Plasma Ratio of Clozapine/N-Desmethylclozapine on Working Memory in Schizophrenia](https://journals.sagepub.com/doi/full/10.1177/0269881120946288). Poster at the 75th Annual Meeting of the _Society of Biological Psychiatry_, 30 April 2020; New York City, NY. Conference cancelled.
+
+**Islam, F.**, Maciukiewicz, M., Freeman, N., Eric, H., Tiwari, A., Mulsant, B.H., Pollock, B.G., Remington, G., Kennedy, J.L, Müller, D.J., & Rajji, TK. Effects of CYP1A2 and Cholinergic Receptor Muscarinic 1 (CHRM1) Gene Polymorphisms on Plasma Ratio of Clozapine/N-desmethylclozapine and Working Memory Performance in Schizophrenia. Poster presented at the _Canadian College of Neuropsychopharmacology 2019 Annual Meeting_, 14 June 2019; Montreal, QC.
+
+**Islam, F.**, Marshe, V.S., Maciukiewicz, A., Lam, R., MacQueen, G., Frey, B., Milev, R., Parikh, S., Soares, C., Uher, R., Turecki, G., Rotzinger, S., Foster, J., Kennedy, S.H., Müller, D.J. Association of CYP2C19 and CYP2D6 genotypes and plasma levels of escitalopram and aripiprazole with treatment outcome in the CAN-BIND-1 sample. Poster presented at the Pharmacogenetic Research Network Meeting at the _American Society for Human Genetics_ Annual Meeting, 17 October 2019; Houston, TX.
+
+**Islam, F.**, Marshe, V.S., Maciukiewicz, M., Lisoway, A., Lam, R., MacQueen, G., Frey, B., Milev, R., Parikh, S., Soares, C., Uher, R., Turecki, G., Rotzinger, S., Foster, J., Kennedy, S.H., Müller, D.J. Effects of CYP2C19 and CYP2D6 gene polymorphisms and methylation on plasma levels of escitalopram and aripiprazole and treatment outcome in the CAN-BIND-1 sample. Poster presented at the _Clinical Pharmacogenetics Implementation Consortium (CPIC®) Meeting_, 6 June 2019; Memphis, TN.
+
+**Islam, F.**, Marshe, V.S., Maciukiewicz, M., Lam, R., MacQueen, G., Frey, B., Milev, R., Parikh, S., Soares, C., Uher, R., Turecki, G., Rotzinger, S., Foster, J., Kennedy, S.H., Müller, D.J. Association of CYP2C19 and CYP2D6 genotypes and plasma levels of escitalopram and aripiprazole with treatment outcome in the CAN-BIND-1 sample. Poster presented at the _World Federation of Societies of Biological Psychiatry (WFSBP)_ 14th World Congress of Biological Psychiatry, 5 June 2019; Vancouver, BC.
+
+**Islam, F.**, Marshe, V.S., Maciukiewicz, M., Yoshida, K., Lam, R., MacQueen, G., Frey, B., Milev, R., Parikh, S., Soares, C., Uher, R., Turecki, G., Rotzinger, S., Foster, J., Kennedy, S.H., Müller, D.J. Impact of CYP2C19 and CYP2D6 Genotypes on Clinical Outcomes and Side Effects in Patients Receiving Escitalopram and Aripiprazole for Major Depression: Results From the CAN-BIND Cohort. Poster presented at the 74th Annual Meeting of the _Society of Biological Psychiatry_, 18 May 2019; Chicago, IL.
+
+Yoshida, K., **Islam, F.**, Marshe, V.S., Maciukiewicz, M., Lam, R., MacQueen, G., Frey, B., Milev, R., Parikh, S., Soares, C., Uher, R., Turecki, G., Rotzinger, S., Foster, J., Kennedy, S.H., Müller, D.J. Impact of CYP2C19 and CYP2D6 Genotypes on Clinical Outcomes and Side Effects in Patients Receiving Escitalopram and Aripiprazole for Major Depression: Results From the CAN-BIND Cohort. Poster presented at the 57th Annual Meeting of the _American College of Neuropsychopharmacology_, 10 December 2018, Orlando, FL.
+
+**Islam, F.**, Xu, K., and Beninger, R.J. Inhibition of Wnt signalling dosedependently impairs the acquisition and expression of amphetamine induced conditioned place preference. Poster presented at the _Society for Neuroscience_; 14 Nov 2016; San Diego, CA.
+
+**Islam, F.**, and Beninger, R.J. Wnt inhibitor, IWP2, impairs expression of amphetamine produced conditioned place preference in rats. Poster presented at: 10th Annual CAN Meeting, _Canadian Association for Neuroscience_; 1 Jun 2016; Toronto, ON.
+
+
 
 
 [back](./)
