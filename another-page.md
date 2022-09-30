@@ -83,7 +83,9 @@ August 2018   | Towards Pharmacogenomics in Clinic, _U-PGx Summer School, Bonn, 
 2022 - Present                  | Appointed Member            | University of Toronto Tribunal, _University of Toronto_
 2022 - Present                  | Elected Member              | Board of Directors, _University of Toronto Graduate Students' Union_
 2021 - Present                  | Committee Member            | PGx Psychiatry Special Interest Group, _Pharmacogenomics Research Network (PGRN)_
-
+2020 - Present                  | Graduate Ambassador for Department of Pharmacology & Toxicology | Faculty of Medicine, _University of Toronto_
+2018                            | Protégée of City Councillor Lucy Troisi of Ward 28    |   _City of Toronto_
+2017                            | Mentee of Senator Salma Ataullahjan                   | Women in House, _University of Toronto_
 
 
 * * *
@@ -127,6 +129,15 @@ August 2018   | Towards Pharmacogenomics in Clinic, _U-PGx Summer School, Bonn, 
 2018 - 2020                  | Board Member                                                   | Student Initiative Fund (SIF), _Student Life, University of Toronto_ | 
 
 * Involved in the selection of student-led projects and initiatives that enhance the student experience and foster a sense of community at the university.
+
+
+* * *
+
+## Professional Memberships
+
+2021 - Present                  | Member            | American Society for Clinical Pharmacology and Therapeutics (ASCPT)
+2019 - Present                  | Junior Member     |  Canadian College of Neuropsychopharmacology (CCNP)
+2019 - Present                  | Member            |  Pharmacogenomics Research Network (PGRN)
 
 
 [back](./)
