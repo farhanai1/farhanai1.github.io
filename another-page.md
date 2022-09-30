@@ -56,17 +56,17 @@ Marshe, V.S., **Islam, F.**, Maciukiewicz, M., Bousman, C., Eyre, H.A., Lavretsk
 
 ## Teaching Experiences
 
-2017-Present<br />Teaching Assistant, _University of Toronto_<br /> 
+|2017-Present         |Teaching Assistant    | _University of Toronto_ |
 
-* Biostatistics I (CHL5201Y), _Dalla Lana School of Public Health_ 
+|* Biostatistics I (CHL5201Y), _Dalla Lana School of Public Health_ 
 * Biometrics (BIO360H), _Department of Biology at the Mississauga Campus_ 
 * Pharmacology and Toxicology in Society (PCL389H), _Department of Pharmacology and Toxicology_ 
-* Personalized Medicine (PHM360H), _Department of Pharmacy_
+* Personalized Medicine (PHM360H), _Department of Pharmacy_|
 
-2014-2017<br />Teaching Assistant, _Queen's University_<br /> 
+|2014-2017            |Teaching Assistant   | _Queen's University_<br /> 
 
-* Abnormal Psychology (PSYC 235), _Department of Psychology_ 
-* Social Psychology (PSYC 241), _Department of Psychology_
+|* Abnormal Psychology (PSYC 235), _Department of Psychology_ 
+* Social Psychology (PSYC 241), _Department of Psychology_|
 
 
 * * *
