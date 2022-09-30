@@ -166,23 +166,28 @@ Yoshida, K., **Islam, F.**, Marshe, V.S., Maciukiewicz, M., Lam, R., MacQueen, G
 |* Advocate on behalf of residents living at UFH directly to building management to resolve collective issues and improve living conditions for students and their families.|
 
 2020 - Present                  | **Committee Member**                                        | **Equity, Diversity and Inclusion (EDI) Committee**, _Canadian College of Neuropsychopharmacology (CCNP)_ | 
+
 |* Serve as a Member of the EDI committee for the CCNP actively working to create a more inclusive College where there is equal opportunity for and treatment of all meeting participants and staff.|
 
 2020 - 2021                  | **Student Advisor**                                             | **Housing Services Student Advisory Committee**, _Student Life, University of Toronto_ |
+
 |* Provide input and feedback on matters pertaining to housing services, programming for students, resources and departmental budget priorities.|
 |* Advocate for affordable housing options for students and their families on campus.|
 
 2019 - 2020                  | **Internal Liason Officer (elected)**                            | **Executive Committee**, _CUPE 3902_ |
+
 |* Served as the Local’s representative in collaborations with student and labour unions and equity-seeking groups within the University community.
 * Developed allyship with members and non-members in preparation for bargaining as part of the Political Action Committee.
 * Managed the Local’s representatives on Joint Health and Safety Committees.
 * Advocated for marginalised voices and ensured the Local prioritises the needs of members for inclusive and accessible workplaces.|
 
 2016 - 2020                  | **President (2018-2020) and Vice President (2017-2018) (Elected)** | **Race and Ethnicity Caucus**, _University of Toronto Graduate Students’ Union (UTGSU)_ |
+
 |* Committed to social justice, community building, and healing for self-identified racialized graduate students at the university.
 * Organized events, campaigns and initiatives, and collaborated with various on-campus groups to bring awareness to issues that affect BIPOC communities.|
 
 2018 - 2020                  | **Board Member**                                                   | **Student Initiative Fund (SIF)**, _Student Life, University of Toronto_ |
+
 |* Involved in the selection of student-led projects and initiatives that enhance the student experience and foster a sense of community at the university.|
 
 
@@ -191,14 +196,23 @@ Yoshida, K., **Islam, F.**, Marshe, V.S., Maciukiewicz, M., Lam, R., MacQueen, G
 ## Employment
 
 2022 - Present | **Invigilator**          | Accessibility and Testing Services, _University of Toronto_ |
+
 |Supervising students who write tests/exams administered with accommodations based on medical documentation and/or assessment results, and ensuring that students receive the accommodations as outlined by Accessibility Services and that the integrity of the examination process is maintained. Administering tests/exams in accordance with the examination policies and procedures of Accommodated Testing Services and the University of Toronto.|
+
 2018 - 2022 | **Chief Presiding Officer** | Office of the Faculty Registrar, _Faculty of Arts & Science, University of Toronto_ |
+
 |Overseeing the organization examination rooms; managing emergency situations, returning materials to the Office of the Registrar; maintaining the confidentiality of examination materials; and carrying out the directives contained in the procedures and regulations governing UofT Final Examinations.|
+
 2007 - 2014 | **Page**                    | _Toronto Public Library_ |
+
 |Shelved and organized library materials, utilized library databases (CircIT and Symphony), responded to patron research inquiries, provided patrons aid in locating print and online resources.|
+
 Summer 2010 | **Summer Intern**                    | Mobility, Fracture, Multiple Sclerosis, E.N.T. Clinics, _St. Michael’s Hospital_ |
+
 |Co-ordination of patient flow, patient registration, responding to patient inquiries, booking and transferring referrals, preparing and organizing confidential medical documents, answering multiline telephones, and efficiently multitasking. Rotated between different hospital clinics (multiple sclerosis, ear, nose and throat, mobility, and fracture clinics) led to diverse interactions with patients of varying abilities.|
+
 Summer 2009 | **Summer Intern**                    | Diagnostic Laboratories, _St. Michael’s Hospital_ |
+
 |Specimen collection and distribution from clinic to diagnostic laboratory, coordinating flow of specimen for analysis, preparation of buffers and reagents, stocking and maintaining lab supplies.|
 
 
