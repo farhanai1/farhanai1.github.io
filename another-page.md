@@ -57,14 +57,10 @@ Marshe, V.S., **Islam, F.**, Maciukiewicz, M., Bousman, C., Eyre, H.A., Lavretsk
 ## Teaching Experiences
 
 |2017-Present         | Teaching Assistant    | _University of Toronto_ |
-|* **Biostatistics I** (CHL5201Y), _Dalla Lana School of Public Health_ 
-* **Biometrics** (BIO360H), _Department of Biology at the Mississauga Campus_ 
-* **Pharmacology and Toxicology in Society** (PCL389H), _Department of Pharmacology and Toxicology_ 
-* **Personalized Medicine** (PHM360H), _Department of Pharmacy_|
+|**Biostatistics I** (CHL5201Y), _Dalla Lana School of Public Health_<br />**Biometrics** (BIO360H), _Department of Biology at the Mississauga Campus_ <br />**Pharmacology and Toxicology in Society** (PCL389H), _Department of Pharmacology and Toxicology_ <br />**Personalized Medicine** (PHM360H), _Department of Pharmacy_|
 
 |2014-2017            | Teaching Assistant   | _Queen's University_     |
-|* **Abnormal Psychology** (PSYC 235), _Department of Psychology_ 
-* **Social Psychology** (PSYC 241), _Department of Psychology_|
+|**Abnormal Psychology** (PSYC 235), _Department of Psychology_<br />**Social Psychology** (PSYC 241), _Department of Psychology_|
 
 * * *
 
@@ -89,16 +85,16 @@ August 2018   | **Towards Pharmacogenomics in Clinic**, _U-PGx Summer School, Bo
 ## Mentorship
 
 2019 - 2020     | **Pharmacology Graduate Student Association (PGSA)**, _University of Toronto_           |
-|* Met with mentees (two 1st year PhD students) to provide guidance on navigating graduate school, building student-supervisor working relationships, meeting program requirements, accessing resources on campus, and additional support where necessary.|
+|Met with mentees (two 1st year PhD students) to provide guidance on navigating graduate school, building student-supervisor working relationships, meeting program requirements, accessing resources on campus, and additional support where necessary.|
 
 Jan - May 2019  | **Student Experience Mentorship Program**, _Student Life, University of Toronto_        | 
-|* Mentored a staff member and shared what it is like to be a student at U of T through one-one-one meetings and group mentorship activities/training.|
+|Mentored a staff member and shared what it is like to be a student at U of T through one-one-one meetings and group mentorship activities/training.|
 
 Jan - June 2018 | **Protégée Program**, _City of Toronto_                                                 | 
-|* Selected to be a protégée of City Councillor Lucy Troisi of Ward 28 in this competitive program organised by the City of Toronto. I worked closely with Councillor Troisi on creating and editing a community newspaper for the inner-city community of St. James Town, and liaised with and interviewed groups and individuals within the community newsletter.|
+|Selected to be a protégée of City Councillor Lucy Troisi of Ward 28 in this competitive program organised by the City of Toronto. I worked closely with Councillor Troisi on creating and editing a community newspaper for the inner-city community of St. James Town, and liaised with and interviewed groups and individuals within the community newsletter.|
 
 Jan - June 2018 | **Women in House**, _Massey College_                                                    | 
-|* I was selected to shadow Senator Salma Ataullahjan at Parliament Hill in Ottawa and learn more about what it means to be a female politician in Canada, especially as a Muslim woman of colour.|
+|I was selected to shadow Senator Salma Ataullahjan at Parliament Hill in Ottawa and learn more about what it means to be a female politician in Canada, especially as a Muslim woman of colour.|
 
 * * *
 
