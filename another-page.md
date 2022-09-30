@@ -57,14 +57,12 @@ Marshe, V.S., **Islam, F.**, Maciukiewicz, M., Bousman, C., Eyre, H.A., Lavretsk
 ## Teaching Experiences
 
 |2017-Present         | Teaching Assistant    | _University of Toronto_ |
-
 |* **Biostatistics I** (CHL5201Y), _Dalla Lana School of Public Health_ 
 * **Biometrics** (BIO360H), _Department of Biology at the Mississauga Campus_ 
 * **Pharmacology and Toxicology in Society** (PCL389H), _Department of Pharmacology and Toxicology_ 
 * **Personalized Medicine** (PHM360H), _Department of Pharmacy_|
 
 |2014-2017            | Teaching Assistant   | _Queen's University_     |
-
 |* **Abnormal Psychology** (PSYC 235), _Department of Psychology_ 
 * **Social Psychology** (PSYC 241), _Department of Psychology_|
 
@@ -176,7 +174,7 @@ Yoshida, K., **Islam, F.**, Marshe, V.S., Maciukiewicz, M., Lam, R., MacQueen, G
 
 2019 - 2020                  | **Internal Liason Officer (elected)**                            | **Executive Committee**, _CUPE 3902_ |
 
-|* Served as the Local’s representative in collaborations with student and labour unions and equity-seeking groups within the University community.
+|* Served as the Local’s representative in collaborations with student and labour unions and equity-seeking groups within the University community. 
 * Developed allyship with members and non-members in preparation for bargaining as part of the Political Action Committee.
 * Managed the Local’s representatives on Joint Health and Safety Committees.
 * Advocated for marginalised voices and ensured the Local prioritises the needs of members for inclusive and accessible workplaces.|
