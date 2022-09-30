@@ -95,8 +95,8 @@ August 2018   | Towards Pharmacogenomics in Clinic, _U-PGx Summer School, Bonn, 
 
 2022 - Present;<br />2018-2019  | Appointed Member (2 terms)                            | University Affairs Board, Office of the Governing Council, _University of Toronto_ |
 
-* Represented students directly to the University in considering policy of a non-academic nature and matters that directly concern the quality of student and campus life.
-* Advocated for university policies that reflect the needs of students for inclusive and accessible non-academic services.
+|* Represented students directly to the University in considering policy of a non-academic nature and matters that directly concern the quality of student and campus life.
+* Advocated for university policies that reflect the needs of students for inclusive and accessible non-academic services.|
 
 
 2021 - Present                  | President (previously Vice President - elected)       | Tenants’ Association, _University Family Housing, University of Toronto_ | 
