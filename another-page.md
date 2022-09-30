@@ -58,18 +58,14 @@ Marshe, V.S., **Islam, F.**, Maciukiewicz, M., Bousman, C., Eyre, H.A., Lavretsk
 
 |2017-Present         | Teaching Assistant    | _University of Toronto_ |
 
-|Courses:
-
-* **Biostatistics I** (CHL5201Y), _Dalla Lana School of Public Health_ 
+|* **Biostatistics I** (CHL5201Y), _Dalla Lana School of Public Health_ 
 * **Biometrics** (BIO360H), _Department of Biology at the Mississauga Campus_ 
 * **Pharmacology and Toxicology in Society** (PCL389H), _Department of Pharmacology and Toxicology_ 
 * **Personalized Medicine** (PHM360H), _Department of Pharmacy_|
 
 |2014-2017            | Teaching Assistant   | _Queen's University_     |
 
-|Courses:
-
-* **Abnormal Psychology** (PSYC 235), _Department of Psychology_ 
+|* **Abnormal Psychology** (PSYC 235), _Department of Psychology_ 
 * **Social Psychology** (PSYC 241), _Department of Psychology_|
 
 * * *
@@ -94,21 +90,17 @@ August 2018   | **Towards Pharmacogenomics in Clinic**, _U-PGx Summer School, Bo
 
 ## Mentorship
 
-2019 - 2020                  | **Pharmacology Graduate Student Association (PGSA)**, _University of Toronto_            | 
-|
-* Met with mentees (two 1st year PhD students) to provide guidance on navigating graduate school, building student-supervisor working relationships, meeting program requirements, accessing resources on campus, and additional support where necessary.|
+2019 - 2020    | **Pharmacology Graduate Student Association (PGSA)**, _University of Toronto_           | 
+|* Met with mentees (two 1st year PhD students) to provide guidance on navigating graduate school, building student-supervisor working relationships, meeting program requirements, accessing resources on campus, and additional support where necessary.|
 
-Jan - May 2019               | **Student Experience Mentorship Program**, _Student Life, University of Toronto_         | 
-|
-* Mentored a staff member and shared what it is like to be a student at U of T through one-one-one meetings and group mentorship activities/training.|
+Jan - May 2019 | **Student Experience Mentorship Program**, _Student Life, University of Toronto_        | 
+|* Mentored a staff member and shared what it is like to be a student at U of T through one-one-one meetings and group mentorship activities/training.|
 
-Jan - June 2018               | **Protégée Program**, _City of Toronto_                                                 | 
-|
-* Selected to be a protégée of City Councillor Lucy Troisi of Ward 28 in this competitive program organised by the City of Toronto. I worked closely with Councillor Troisi on creating and editing a community newspaper for the inner-city community of St. James Town, and liaised with and interviewed groups and individuals within the community newsletter.|
+Jan - June 2018| **Protégée Program**, _City of Toronto_                                                 | 
+|* Selected to be a protégée of City Councillor Lucy Troisi of Ward 28 in this competitive program organised by the City of Toronto. I worked closely with Councillor Troisi on creating and editing a community newspaper for the inner-city community of St. James Town, and liaised with and interviewed groups and individuals within the community newsletter.|
 
-Jan - June 2018               | **Women in House**, _Massey College_                                                    | 
-|
-* I was selected to shadow Senator Salma Ataullahjan at Parliament Hill in Ottawa and learn more about what it means to be a female politician in Canada, especially as a Muslim woman of colour.|
+Jan - June 2018| **Women in House**, _Massey College_                                     | 
+|* I was selected to shadow Senator Salma Ataullahjan at Parliament Hill in Ottawa and learn more about what it means to be a female politician in Canada, especially as a Muslim woman of colour.|
 
 * * *
 
@@ -157,51 +149,36 @@ Yoshida, K., **Islam, F.**, Marshe, V.S., Maciukiewicz, M., Lam, R., MacQueen, G
 ## Service and Outreach
 
 2022 - Present;<br />2018-2019  | **Appointed Member** (2 terms)                            | ***University of Toronto Tribunal**, _University of Toronto_ |
-
-|
-* As a member on the tribunal panel, heard cases of sensitive nature relating to academic misconduct and made impartial decisions on the evidence presented. |
-
+|* As a member on the tribunal panel, heard cases of sensitive nature relating to academic misconduct and made impartial decisions on the evidence presented. |
 
 2022 - Present;<br />2018-2019  | **Appointed Member** (2 terms)                            | **University Affairs Board, Office of the Governing Council**, _University of Toronto_ |
-
 |* Represented students directly to the University in considering policy of a non-academic nature and matters that directly concern the quality of student and campus life.
 * Advocated for university policies that reflect the needs of students for inclusive and accessible non-academic services.|
 
-
 2022 - Present;<br />2018-2019  | **Elected Member**                            | **Board of Directors**, _University of Toronto's Graduate Student's Union (UTGSU)_ |
-
 |* As a Director on the Board, made decisions on the management and governance of the UTGSU that's in the best interest of its members. |
 
-
 2021 - Present                  | **President (previously Vice President - elected)**       | **Tenants’ Association**, _University Family Housing, University of Toronto_ | 
-
 |* Advocate on behalf of residents living at UFH directly to building management to resolve collective issues and improve living conditions for students and their families.|
 
-
 2020 - Present                  | **Committee Member**                                        | **Equity, Diversity and Inclusion (EDI) Committee**, _Canadian College of Neuropsychopharmacology (CCNP)_ | 
-
 |* Serve as a Member of the EDI committee for the CCNP actively working to create a more inclusive College where there is equal opportunity for and treatment of all meeting participants and staff.|
 
-
-2020 - 2021                  | **Student Advisor**                                             | **Housing Services Student Advisory Committee**, _Student Life, University of Toronto_ | 
-
+2020 - 2021                  | **Student Advisor**                                             | **Housing Services Student Advisory Committee**, _Student Life, University of Toronto_ |
 |* Provide input and feedback on matters pertaining to housing services, programming for students, resources and departmental budget priorities.
 * Advocate for affordable housing options for students and their families on campus.|
 
-2019 - 2020                  | **Internal Liason Officer (elected)**                            | **Executive Committee**, _CUPE 3902_ | 
-
+2019 - 2020                  | **Internal Liason Officer (elected)**                            | **Executive Committee**, _CUPE 3902_ |
 |* Served as the Local’s representative in collaborations with student and labour unions and equity-seeking groups within the University community.
 * Developed allyship with members and non-members in preparation for bargaining as part of the Political Action Committee.
 * Managed the Local’s representatives on Joint Health and Safety Committees.
 * Advocated for marginalised voices and ensured the Local prioritises the needs of members for inclusive and accessible workplaces.|
 
-2016 - 2020                  | **President (2018-2020) and Vice President (2017-2018) (Elected)** | **Race and Ethnicity Caucus**, _University of Toronto Graduate Students’ Union (UTGSU)_ | 
-
+2016 - 2020                  | **President (2018-2020) and Vice President (2017-2018) (Elected)** | **Race and Ethnicity Caucus**, _University of Toronto Graduate Students’ Union (UTGSU)_ |
 |* Committed to social justice, community building, and healing for self-identified racialized graduate students at the university.
 * Organized events, campaigns and initiatives, and collaborated with various on-campus groups to bring awareness to issues that affect BIPOC communities.|
 
-2018 - 2020                  | **Board Member**                                                   | **Student Initiative Fund (SIF)**, _Student Life, University of Toronto_ | 
-
+2018 - 2020                  | **Board Member**                                                   | **Student Initiative Fund (SIF)**, _Student Life, University of Toronto_ |
 |* Involved in the selection of student-led projects and initiatives that enhance the student experience and foster a sense of community at the university.|
 
 
