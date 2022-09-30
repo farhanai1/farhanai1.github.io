@@ -205,6 +205,22 @@ Yoshida, K., **Islam, F.**, Marshe, V.S., Maciukiewicz, M., Lam, R., MacQueen, G
 |* Involved in the selection of student-led projects and initiatives that enhance the student experience and foster a sense of community at the university.|
 
 
+* * *
+
+## Employment
+
+2022 - Present | **Invigilator**          | Accessibility and Testing Services, _University of Toronto_ |
+|Supervising students who write tests/exams administered with accommodations based on medical documentation and/or assessment results, and ensuring that students receive the accommodations as outlined by Accessibility Services and that the integrity of the examination process is maintained. Administering tests/exams in accordance with the examination policies and procedures of Accommodated Testing Services and the University of Toronto.|
+2018 - 2022 | **Chief Presiding Officer** | Office of the Faculty Registrar, _Faculty of Arts & Science, University of Toronto_ |
+|Overseeing the organization examination rooms; managing emergency situations, returning materials to the Office of the Registrar; maintaining the confidentiality of examination materials; and carrying out the directives contained in the procedures and regulations governing UofT Final Examinations.|
+2007 - 2014 | **Page**                    | _Toronto Public Library_ |
+|Shelved and organized library materials, utilized library databases (CircIT and Symphony), responded to patron research inquiries, provided patrons aid in locating print and online resources.|
+Summer 2010 | **Intern**                    | Mobility, Fracture, Multiple Sclerosis, E.N.T. Clinics, _St. Michael’s Hospital_ |
+|Co-ordination of patient flow, patient registration, responding to patient inquiries, booking and transferring referrals, preparing and organizing confidential medical documents, answering multiline telephones, and efficiently multitasking. Rotated between different hospital clinics (multiple sclerosis, ear, nose and throat, mobility, and fracture clinics) led to diverse interactions with patients of varying abilities.|
+Summer 2009 | **Intern**                    | Diagnostic Laboratories, _St. Michael’s Hospital_ |
+|Specimen collection and distribution from clinic to diagnostic laboratory, coordinating flow of specimen for analysis, preparation of buffers and reagents, stocking and maintaining lab supplies.|
+
+
 
 
 [back](./)
