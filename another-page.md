@@ -72,6 +72,15 @@ Marshe, V.S., **Islam, F.**, Maciukiewicz, M., Bousman, C., Eyre, H.A., Lavretsk
 * **Abnormal Psychology** (PSYC 235), _Department of Psychology_ 
 * **Social Psychology** (PSYC 241), _Department of Psychology_|
 
+* * *
+
+
+## Invited Talks
+
+|12 Oct 2021         | **Effects of CYP2C19 and CYP2D6 Gene Variants on Escitalopram and Aripiprazole Treatment Outcome and Serum Levels: Results from the CAN-BIND 1 Study**    | WCPG Symposium: Moving Depression Pharmacogenetics Forward: Using Scientific Discoveries to Inform Clinical Decisions, _2021 World Congress of Psychiatric Genetics (WCPG)_, Virtual|
+|10 May 2019         | **Association of CYP2C19 and CYP2D6 Gene Variants and Plasma Levels of Escitalopram and Aripiprazole with Treatment Outcome in the CAN-BIND-1 Sample.**    | Neurogenetics Lab Meeting, _Centre for Addictions and Mental Health (CAMH)_, Toronto, ON|
+|July 2016         | **A role for Wnt Signalling in the cellular mechanisms underlying incentive learning.**    | Behavioural Neuroscience Summer Seminar Series, _Queen's University_, Kingston, ON|
+
 
 * * *
 
@@ -80,60 +89,30 @@ Marshe, V.S., **Islam, F.**, Maciukiewicz, M., Bousman, C., Eyre, H.A., Lavretsk
 Sept 2020      | Machine Learning, _Canadian Bioinformatics Workshop, Virtual_            | Workshop on machine learning and its application to bioinformatics: Decision Trees and Random Forests, Artificial Neural Networks (ANNs), and Hidden Markov Models (HMMs).<br /> [Certificate](https://drive.google.com/file/d/1nybmlzAISLhkSkE9pKz-31lj5WfJuQXX/view)
 August 2018   | Towards Pharmacogenomics in Clinic, _U-PGx Summer School, Bonn, Germany_  | Summer school on the fundamentals of pharmacogenomics and its applications
 
-* * *
-
-## Service and Outreach
-
-2022 - Present                  | **Appointed Member**            | **University of Toronto Tribunal**, _University of Toronto_
-2022 - Present                  | **Elected Member**              | **Board of Directors**, _University of Toronto Graduate Students' Union_
-2021 - Present                  | **Committee Member**            | **PGx Psychiatry Special Interest Group**, _Pharmacogenomics Research Network (PGRN)_
-2020 - Present                  | **Graduate Ambassador for Department of Pharmacology & Toxicology** | **Faculty of Medicine**, _University of Toronto_
-2018                            | **Protégée of City Councillor Lucy Troisi of Ward 28**    |   _City of Toronto_
-2017                            | **Mentee of Senator Salma Ataullahjan**                   | **Women in House**, _University of Toronto_
-
 
 * * *
 
-## Activism
+## Mentorship
 
+2019 - 2020                  | **Pharmacology Graduate Student Association (PGSA)**, _University of Toronto_            | 
+|
 
-2022 - Present;<br />2018-2019  | **Appointed Member** (2 terms)                            | **University Affairs Board, Office of the Governing Council**, _University of Toronto_ |
+* Met with mentees (two 1st year PhD students) to provide guidance on navigating graduate school, building student-supervisor working relationships, meeting program requirements, accessing resources on campus, and additional support where necessary.|
 
-|* Represented students directly to the University in considering policy of a non-academic nature and matters that directly concern the quality of student and campus life.
-* Advocated for university policies that reflect the needs of students for inclusive and accessible non-academic services.|
+Jan - May 2019               | **Student Experience Mentorship Program**, _Student Life, University of Toronto_         | 
+|
 
+* Mentored a staff member and shared what it is like to be a student at U of T through one-one-one meetings and group mentorship activities/training.|
 
-2021 - Present                  | **President (previously Vice President - elected)**       | **Tenants’ Association**, _University Family Housing, University of Toronto_ | 
+Jan - June 2018               | **Protégée Program**, _City of Toronto_                                                 | 
+|
 
-|* Advocate on behalf of residents living at UFH directly to building management to resolve collective issues and improve living conditions for students and their families.|
+* Selected to be a protégée of City Councillor Lucy Troisi of Ward 28 in this competitive program organised by the City of Toronto. I worked closely with Councillor Troisi on creating and editing a community newspaper for the inner-city community of St. James Town, and liaised with and interviewed groups and individuals within the community newsletter.|
 
+Jan - June 2018               | **Women in House**, _Massey College_                                                    | 
+|
 
-2020 - Present                  | **Committee Member**                                        | **Equity, Diversity and Inclusion (EDI) Committee**, _Canadian College of Neuropsychopharmacology (CCNP)_ | 
-
-|* Serve as a Member of the EDI committee for the CCNP actively working to create a more inclusive College where there is equal opportunity for and treatment of all meeting participants and staff.|
-
-
-2020 - 2021                  | **Student Advisor**                                             | **Housing Services Student Advisory Committee**, _Student Life, University of Toronto_ | 
-
-|* Provide input and feedback on matters pertaining to housing services, programming for students, resources and departmental budget priorities.
-* Advocate for affordable housing options for students and their families on campus.|
-
-2019 - 2020                  | **Internal Liason Officer (elected)**                            | **Executive Committee**, _CUPE 3902_ | 
-
-|* Served as the Local’s representative in collaborations with student and labour unions and equity-seeking groups within the University community.
-* Developed allyship with members and non-members in preparation for bargaining as part of the Political Action Committee.
-* Managed the Local’s representatives on Joint Health and Safety Committees.
-* Advocated for marginalised voices and ensured the Local prioritises the needs of members for inclusive and accessible workplaces.|
-
-2016 - 2020                  | **President (2018-2020) and Vice President (2017-2018) (Elected)** | **Race and Ethnicity Caucus**, _University of Toronto Graduate Students’ Union (UTGSU)_ | 
-
-|* Committed to social justice, community building, and healing for self-identified racialized graduate students at the university.
-* Organized events, campaigns and initiatives, and collaborated with various on-campus groups to bring awareness to issues that affect BIPOC communities.|
-
-2018 - 2020                  | **Board Member**                                                   | **Student Initiative Fund (SIF)**, _Student Life, University of Toronto_ | 
-
-|* Involved in the selection of student-led projects and initiatives that enhance the student experience and foster a sense of community at the university.|
-
+* I was selected to shadow Senator Salma Ataullahjan at Parliament Hill in Ottawa and learn more about what it means to be a female politician in Canada, especially as a Muslim woman of colour.|
 
 * * *
 
@@ -176,6 +155,62 @@ Yoshida, K., **Islam, F.**, Marshe, V.S., Maciukiewicz, M., Lam, R., MacQueen, G
 **Islam, F.**, Xu, K., and Beninger, R.J. Inhibition of Wnt signalling dosedependently impairs the acquisition and expression of amphetamine induced conditioned place preference. Poster presented at the _Society for Neuroscience_; 14 Nov 2016; San Diego, CA.
 
 **Islam, F.**, and Beninger, R.J. Wnt inhibitor, IWP2, impairs expression of amphetamine produced conditioned place preference in rats. Poster presented at: 10th Annual CAN Meeting, _Canadian Association for Neuroscience_; 1 Jun 2016; Toronto, ON.
+
+* * *
+
+## Service and Outreach
+
+## Service and Outreach
+
+2022 - Present                  | **Appointed Member**            | **University of Toronto Tribunal**, _University of Toronto_
+2022 - Present                  | **Elected Member**              | **Board of Directors**, _University of Toronto Graduate Students' Union_
+2021 - Present                  | **Committee Member**            | **PGx Psychiatry Special Interest Group**, _Pharmacogenomics Research Network (PGRN)_
+2020 - Present                  | **Graduate Ambassador for Department of Pharmacology & Toxicology** | **Faculty of Medicine**, _University of Toronto_
+
+
+
+2022 - Present;<br />2018-2019  | **Appointed Member** (2 terms)                            | **University Affairs Board, Office of the Governing Council**, _University of Toronto_ |
+
+|* Represented students directly to the University in considering policy of a non-academic nature and matters that directly concern the quality of student and campus life.
+* Advocated for university policies that reflect the needs of students for inclusive and accessible non-academic services.|
+
+
+2022 - Present;<br />2018-2019  | **Appointed Member** (2 terms)                            | **University Affairs Board, Office of the Governing Council**, _University of Toronto_ |
+
+|* Represented students directly to the University in considering policy of a non-academic nature and matters that directly concern the quality of student and campus life.
+* Advocated for university policies that reflect the needs of students for inclusive and accessible non-academic services.|
+
+
+2021 - Present                  | **President (previously Vice President - elected)**       | **Tenants’ Association**, _University Family Housing, University of Toronto_ | 
+
+|* Advocate on behalf of residents living at UFH directly to building management to resolve collective issues and improve living conditions for students and their families.|
+
+
+2020 - Present                  | **Committee Member**                                        | **Equity, Diversity and Inclusion (EDI) Committee**, _Canadian College of Neuropsychopharmacology (CCNP)_ | 
+
+|* Serve as a Member of the EDI committee for the CCNP actively working to create a more inclusive College where there is equal opportunity for and treatment of all meeting participants and staff.|
+
+
+2020 - 2021                  | **Student Advisor**                                             | **Housing Services Student Advisory Committee**, _Student Life, University of Toronto_ | 
+
+|* Provide input and feedback on matters pertaining to housing services, programming for students, resources and departmental budget priorities.
+* Advocate for affordable housing options for students and their families on campus.|
+
+2019 - 2020                  | **Internal Liason Officer (elected)**                            | **Executive Committee**, _CUPE 3902_ | 
+
+|* Served as the Local’s representative in collaborations with student and labour unions and equity-seeking groups within the University community.
+* Developed allyship with members and non-members in preparation for bargaining as part of the Political Action Committee.
+* Managed the Local’s representatives on Joint Health and Safety Committees.
+* Advocated for marginalised voices and ensured the Local prioritises the needs of members for inclusive and accessible workplaces.|
+
+2016 - 2020                  | **President (2018-2020) and Vice President (2017-2018) (Elected)** | **Race and Ethnicity Caucus**, _University of Toronto Graduate Students’ Union (UTGSU)_ | 
+
+|* Committed to social justice, community building, and healing for self-identified racialized graduate students at the university.
+* Organized events, campaigns and initiatives, and collaborated with various on-campus groups to bring awareness to issues that affect BIPOC communities.|
+
+2018 - 2020                  | **Board Member**                                                   | **Student Initiative Fund (SIF)**, _Student Life, University of Toronto_ | 
+
+|* Involved in the selection of student-led projects and initiatives that enhance the student experience and foster a sense of community at the university.|
 
 
 
