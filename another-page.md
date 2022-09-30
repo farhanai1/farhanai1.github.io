@@ -71,9 +71,9 @@ Marshe, V.S., **Islam, F.**, Maciukiewicz, M., Bousman, C., Eyre, H.A., Lavretsk
 
 ## Invited Talks
 
-|12 Oct 2021         | Effects of CYP2C19 and CYP2D6 Gene Variants on Escitalopram and Aripiprazole Treatment Outcome and Serum Levels: Results from the CAN-BIND 1 Study    | WCPG Symposium: Moving Depression Pharmacogenetics Forward: Using Scientific Discoveries to Inform Clinical Decisions, _2021 World Congress of Psychiatric Genetics (WCPG)_, Virtual|
-|10 May 2019         | Association of CYP2C19 and CYP2D6 Gene Variants and Plasma Levels of Escitalopram and Aripiprazole with Treatment Outcome in the CAN-BIND-1 Sample.    | Neurogenetics Lab Meeting, _Centre for Addictions and Mental Health (CAMH)_, Toronto, ON|
-|July 2016         | A role for Wnt Signalling in the cellular mechanisms underlying incentive learning.    | Behavioural Neuroscience Summer Seminar Series, _Queen's University_, Kingston, ON|
+|12 Oct 2021         | Effects of CYP2C19 and CYP2D6 Gene Variants on Escitalopram and Aripiprazole Treatment Outcome and Serum Levels: Results from the CAN-BIND 1 Study    | **WCPG Symposium: Moving Depression Pharmacogenetics Forward: Using Scientific Discoveries to Inform Clinical Decisions**, _2021 World Congress of Psychiatric Genetics (WCPG)_, Virtual|
+|10 May 2019         | Association of CYP2C19 and CYP2D6 Gene Variants and Plasma Levels of Escitalopram and Aripiprazole with Treatment Outcome in the CAN-BIND-1 Sample.    | **Neurogenetics Lab Meeting**, _Centre for Addictions and Mental Health (CAMH)_, Toronto, ON|
+|July 2016         | A role for Wnt Signalling in the cellular mechanisms underlying incentive learning.    | **Behavioural Neuroscience Summer Seminar Series**, _Queen's University_, Kingston, ON|
 
 
 * * *
