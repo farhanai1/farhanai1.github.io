@@ -58,16 +58,16 @@ Marshe, V.S., **Islam, F.**, Maciukiewicz, M., Bousman, C., Eyre, H.A., Lavretsk
 
 |2017-Present         | Teaching Assistant    | _University of Toronto_ |
 
-|
+|Courses:
 
 * **Biostatistics I** (CHL5201Y), _Dalla Lana School of Public Health_ 
 * **Biometrics** (BIO360H), _Department of Biology at the Mississauga Campus_ 
 * **Pharmacology and Toxicology in Society** (PCL389H), _Department of Pharmacology and Toxicology_ 
 * **Personalized Medicine** (PHM360H), _Department of Pharmacy_|
 
-|2014-2017            | Teaching Assistant   | _Queen's University_|
+|2014-2017            | Teaching Assistant   | _Queen's University_     |
 
-|
+|Courses:
 
 * **Abnormal Psychology** (PSYC 235), _Department of Psychology_ 
 * **Social Psychology** (PSYC 241), _Department of Psychology_|
@@ -77,17 +77,17 @@ Marshe, V.S., **Islam, F.**, Maciukiewicz, M., Bousman, C., Eyre, H.A., Lavretsk
 
 ## Invited Talks
 
-|12 Oct 2021         | **Effects of CYP2C19 and CYP2D6 Gene Variants on Escitalopram and Aripiprazole Treatment Outcome and Serum Levels: Results from the CAN-BIND 1 Study**    | WCPG Symposium: Moving Depression Pharmacogenetics Forward: Using Scientific Discoveries to Inform Clinical Decisions, _2021 World Congress of Psychiatric Genetics (WCPG)_, Virtual|
-|10 May 2019         | **Association of CYP2C19 and CYP2D6 Gene Variants and Plasma Levels of Escitalopram and Aripiprazole with Treatment Outcome in the CAN-BIND-1 Sample.**    | Neurogenetics Lab Meeting, _Centre for Addictions and Mental Health (CAMH)_, Toronto, ON|
-|July 2016         | **A role for Wnt Signalling in the cellular mechanisms underlying incentive learning.**    | Behavioural Neuroscience Summer Seminar Series, _Queen's University_, Kingston, ON|
+|12 Oct 2021         | Effects of CYP2C19 and CYP2D6 Gene Variants on Escitalopram and Aripiprazole Treatment Outcome and Serum Levels: Results from the CAN-BIND 1 Study    | WCPG Symposium: Moving Depression Pharmacogenetics Forward: Using Scientific Discoveries to Inform Clinical Decisions, _2021 World Congress of Psychiatric Genetics (WCPG)_, Virtual|
+|10 May 2019         | Association of CYP2C19 and CYP2D6 Gene Variants and Plasma Levels of Escitalopram and Aripiprazole with Treatment Outcome in the CAN-BIND-1 Sample.    | Neurogenetics Lab Meeting, _Centre for Addictions and Mental Health (CAMH)_, Toronto, ON|
+|July 2016         | A role for Wnt Signalling in the cellular mechanisms underlying incentive learning.    | Behavioural Neuroscience Summer Seminar Series, _Queen's University_, Kingston, ON|
 
 
 * * *
 
 ## Professional Development
 
-Sept 2020      | Machine Learning, _Canadian Bioinformatics Workshop, Virtual_            | Workshop on machine learning and its application to bioinformatics: Decision Trees and Random Forests, Artificial Neural Networks (ANNs), and Hidden Markov Models (HMMs).<br /> [Certificate](https://drive.google.com/file/d/1nybmlzAISLhkSkE9pKz-31lj5WfJuQXX/view)
-August 2018   | Towards Pharmacogenomics in Clinic, _U-PGx Summer School, Bonn, Germany_  | Summer school on the fundamentals of pharmacogenomics and its applications
+Sept 2020      | **Machine Learning**, _Canadian Bioinformatics Workshop, Virtual_            | Workshop on machine learning and its application to bioinformatics: Decision Trees and Random Forests, Artificial Neural Networks (ANNs), and Hidden Markov Models (HMMs).<br /> [Certificate](https://drive.google.com/file/d/1nybmlzAISLhkSkE9pKz-31lj5WfJuQXX/view)
+August 2018   | **Towards Pharmacogenomics in Clinic**, _U-PGx Summer School, Bonn, Germany_  | Summer school on the fundamentals of pharmacogenomics and its applications
 
 
 * * *
@@ -96,22 +96,18 @@ August 2018   | Towards Pharmacogenomics in Clinic, _U-PGx Summer School, Bonn, 
 
 2019 - 2020                  | **Pharmacology Graduate Student Association (PGSA)**, _University of Toronto_            | 
 |
-
 * Met with mentees (two 1st year PhD students) to provide guidance on navigating graduate school, building student-supervisor working relationships, meeting program requirements, accessing resources on campus, and additional support where necessary.|
 
 Jan - May 2019               | **Student Experience Mentorship Program**, _Student Life, University of Toronto_         | 
 |
-
 * Mentored a staff member and shared what it is like to be a student at U of T through one-one-one meetings and group mentorship activities/training.|
 
 Jan - June 2018               | **Protégée Program**, _City of Toronto_                                                 | 
 |
-
 * Selected to be a protégée of City Councillor Lucy Troisi of Ward 28 in this competitive program organised by the City of Toronto. I worked closely with Councillor Troisi on creating and editing a community newspaper for the inner-city community of St. James Town, and liaised with and interviewed groups and individuals within the community newsletter.|
 
 Jan - June 2018               | **Women in House**, _Massey College_                                                    | 
 |
-
 * I was selected to shadow Senator Salma Ataullahjan at Parliament Hill in Ottawa and learn more about what it means to be a female politician in Canada, especially as a Muslim woman of colour.|
 
 * * *
@@ -160,13 +156,10 @@ Yoshida, K., **Islam, F.**, Marshe, V.S., Maciukiewicz, M., Lam, R., MacQueen, G
 
 ## Service and Outreach
 
-## Service and Outreach
+2022 - Present;<br />2018-2019  | **Appointed Member** (2 terms)                            | ***University of Toronto Tribunal**, _University of Toronto_ |
 
-2022 - Present                  | **Appointed Member**            | **University of Toronto Tribunal**, _University of Toronto_
-2022 - Present                  | **Elected Member**              | **Board of Directors**, _University of Toronto Graduate Students' Union_
-2021 - Present                  | **Committee Member**            | **PGx Psychiatry Special Interest Group**, _Pharmacogenomics Research Network (PGRN)_
-2020 - Present                  | **Graduate Ambassador for Department of Pharmacology & Toxicology** | **Faculty of Medicine**, _University of Toronto_
-
+|
+* As a member on the tribunal panel, heard cases of sensitive nature relating to academic misconduct and made impartial decisions on the evidence presented. |
 
 
 2022 - Present;<br />2018-2019  | **Appointed Member** (2 terms)                            | **University Affairs Board, Office of the Governing Council**, _University of Toronto_ |
@@ -175,10 +168,9 @@ Yoshida, K., **Islam, F.**, Marshe, V.S., Maciukiewicz, M., Lam, R., MacQueen, G
 * Advocated for university policies that reflect the needs of students for inclusive and accessible non-academic services.|
 
 
-2022 - Present;<br />2018-2019  | **Appointed Member** (2 terms)                            | **University Affairs Board, Office of the Governing Council**, _University of Toronto_ |
+2022 - Present;<br />2018-2019  | **Elected Member**                            | **Board of Directors**, _University of Toronto's Graduate Student's Union (UTGSU)_ |
 
-|* Represented students directly to the University in considering policy of a non-academic nature and matters that directly concern the quality of student and campus life.
-* Advocated for university policies that reflect the needs of students for inclusive and accessible non-academic services.|
+|* As a Director on the Board, made decisions on the management and governance of the UTGSU that's in the best interest of its members. |
 
 
 2021 - Present                  | **President (previously Vice President - elected)**       | **Tenants’ Association**, _University Family Housing, University of Toronto_ | 
